@@ -1,0 +1,15 @@
+.logo{
+    width: 50%;
+    height: 50%;
+}
+.header__logo{
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    margin: 10px;
+}
+.header__user{
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+}
